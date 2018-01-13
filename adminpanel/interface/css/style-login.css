@@ -1,0 +1,63 @@
+@font-face {
+  font-family: 'Panton-SemiBold';
+  src: url('../Panton-SemiBold.eot');
+  src: url('../fonts/Panton-SemiBold.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/Panton-SemiBold.woff2') format('woff2'),
+       url('../fonts/Panton-SemiBold.woff') format('woff'),
+       url('../fonts/Panton-SemiBold.ttf') format('truetype'),
+       url('../fonts/Panton-SemiBold.svg#Panton-SemiBold') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+*{margin: 0; padding: 0;}
+table{border-collapse: collapse; border-spacing: 0;}
+fieldset, img{border: 0;}
+sup{vertical-align: text-top;}
+sub{vertical-align: text-bottom;}
+input,textarea,select{font-family: inherit; font-size: inherit; font-weight: inherit; border: none; outline: navy;}
+a, img{outline: 0;}
+a{color: #fff; text-decoration: none;}
+a:hover{text-decoration: underline;}
+label{cursor: pointer;}
+li{list-style: none;}
+
+body{background: #131313; margin: 0; color: #fff; font: 14px "Panton-SemiBold";
+background: url("../images/login-back.jpg") top center;}
+
+#container{width: 900px; margin: 0 auto; position: relative;}
+#login-area{width: 383px; padding: 150px 0 0 0; margin: 0 auto;}
+#login-middle{padding: 20px 20px 15px 20px;}
+#login-middle p.done{margin: 0 0 12px 0;}
+
+#header{background: url("../images/logo.png") top left no-repeat; height: 23px; padding: 9px 0 0 85px;
+margin: 0 0 10px 0; font-size: 17px;}
+.header-loading{margin: 17px 0 0 20px !important;}
+#header.error{margin-bottom: 17px;}
+
+div.errors{background: #f26061; padding: 5px 12px 6px 12px; border-radius: 4px;}
+div.errors p{color: #fff; margin: 0 0 1px 0;}
+
+form table td{padding: 5px 5px; vertical-align: top;}
+form table td.errors{padding-bottom: 3px;}
+form table td.caption{padding-top: 10px; min-width: 60px;}
+form table td.captcha{vertical-align: bottom;}
+form table td img{position: relative; bottom: -2px; border-radius: 3px;}
+form table input[type='text'], form table input[type='password']{padding: 4px 4%; border-radius: 3px; border: none; 
+display: block; width: 92%;}
+form table div.submit{text-align: right; margin: 0 0 10px 0;}
+form table div.submit.recover{padding-top: 5px;}
+form table div.cancel{padding: 1px 0 0 0; text-align: right;}
+form table input.submit{background: #918b8b; position: relative; cursor: pointer; border-radius: 4px; color: #fff; 
+width: auto; padding: 4px 15px 4px 15px; outline: none;}
+form table input.submit:active{position: relative; top: 1px; left: 1px;}
+form table div.remind{margin: 0 0 5px 0;}
+
+a.error-link{display: inline-block; margin: 10px 0 0 0;}
+
+#remember{min-height: 30px; padding: 5px 0 2px 0;}
+#remember-login{outline: none; border: none; width: auto; position: relative; bottom: -1px;}
+#remember label{cursor: pointer; margin: 0 0 0 5px;}
+
+#select-login-region{border-radius: 3px; padding: 3px 5px;}
+#select-login-region option{padding-left: 5px; padding-right: 5px;}

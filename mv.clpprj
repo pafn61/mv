@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project name="C:\OSPanel\domains\mv\mv.clpprj">
+	<settings><PM_URL><![CDATA[/mv]]></PM_URL><PM_HOME_URL><![CDATA[/mv]]></PM_HOME_URL><PM_LIBS><![CDATA[]]></PM_LIBS><PM_FTP_CONNECTION><![CDATA[]]></PM_FTP_CONNECTION><PM_FTP_DIR><![CDATA[]]></PM_FTP_DIR><PM_FTP_UPLOAD_ON_SAVE><![CDATA[INT:0]]></PM_FTP_UPLOAD_ON_SAVE></settings><removed value=";"/><added value=""/><lastopfiles>
+	</lastopfiles>
+	<errors version="5.11">
+	</errors>
+	<cakedata>
+	</cakedata>
+	<dplmenupath>
+	</dplmenupath><laravael>
+	</laravael><smartyassings>
+	</smartyassings><twigtemplate>
+	</twigtemplate><yiidata>
+	</yiidata>
+	<todoblock>
+		<todofile name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\classes\Swift\Mime\Headers\ParameterizedHeader.php">
+			<todo name="TODO: Check caching here" pos="36;129"/>
+			<todo name="TODO: text, or something else" pos="13;189"/>
+		</todofile>
+		<todofile name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\classes\Swift\Mime\SimpleMimeEntity.php">
+			<todo name="TODO: Попробуйте реорганизовать эту логику" pos="9;282"/>
+		</todofile>
+		<todofile name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\classes\Swift\Signers\DKIMSigner.php">
+			<todo name="TODO fix return" pos="5;232"/>
+			<todo name="todo handle it but should never happen" pos="25;631"/>
+		</todofile>
+		<todofile name="C:\OSPanel\domains\mv\core\datatypes\float.type.php">
+			<todo name="TODO use i18n separator" pos="74;24"/>
+		</todofile>
+		<todofile name="C:\OSPanel\domains\mv\core\filter.class.php">
+			<todo name="TODO add option of checkboxes for parent field" pos="6;1065"/>
+		</todofile>
+		<todofile name="C:\OSPanel\domains\mv\core\model.class.php">
+			<todo name="TODO think about m2m hidden and visible fields" pos="16;547"/>
+			<todo name="TODO add beforeCreate() ability" pos="59;607"/>
+			<todo name="TODO remove password error" pos="50;1091"/>
+			<todo name="TODO add option to save the version from record for all CRUD" pos="3;1964"/>
+		</todofile>
+		<todofile name="C:\OSPanel\domains\mv\core\model_simple.class.php">
+			<todo name="TODO add functions for files and images" pos="5;258"/>
+		</todofile>
+		<todofile name="C:\OSPanel\domains\mv\core\record.class.php">
+			<todo name="TODO check unique values" pos="9;130"/>
+		</todofile>
+	</todoblock>
+	<dbgurls>
+	</dbgurls>
+	<filescache>
+		<file name="C:\OSPanel\domains\mv\views\ajax\.htaccess" crc="1389269792"/>
+		<file name="C:\OSPanel\domains\mv\views\view-index.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\views\view-form.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\views\view-default.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\views\view-404.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\views\main-header.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\views\main-footer.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\userfiles\database\mysql-dump.sql" crc="1492243428"/>
+		<file name="C:\OSPanel\domains\mv\userfiles\database\.htaccess" crc="1347095532"/>
+		<file name="C:\OSPanel\domains\mv\userfiles\.htaccess" crc="1347095532"/>
+		<file name="C:\OSPanel\domains\mv\models\seo.model.php" crc="1490455880"/>
+		<file name="C:\OSPanel\domains\mv\models\pages.model.php" crc="1490455880"/>
+		<file name="C:\OSPanel\domains\mv\models\blocks.model.php" crc="1454758104"/>
+		<file name="C:\OSPanel\domains\mv\media\.htaccess" crc="1336122884"/>
+		<file name="C:\OSPanel\domains\mv\extra\upload\index.php" crc="1390888302"/>
+		<file name="C:\OSPanel\domains\mv\extra\captcha-strong\fonts\.htaccess" crc="1345113986"/>
+		<file name="C:\OSPanel\domains\mv\extra\captcha-strong\kcaptcha_config.php" crc="1345113986"/>
+		<file name="C:\OSPanel\domains\mv\extra\captcha-strong\kcaptcha.php" crc="1345113986"/>
+		<file name="C:\OSPanel\domains\mv\extra\captcha-strong\index.php" crc="1383741660"/>
+		<file name="C:\OSPanel\domains\mv\extra\captcha-simple\index.php" crc="1351855564"/>
+		<file name="C:\OSPanel\domains\mv\extra\.htaccess" crc="1336115354"/>
+		<file name="C:\OSPanel\domains\mv\customs\emails\default.php" crc="1428046407"/>
+		<file name="C:\OSPanel\domains\mv\core\db\sqlite.adapter.php" crc="1436337959"/>
+		<file name="C:\OSPanel\domains\mv\core\db\mysql.adapter.php" crc="1372777588"/>
+		<file name="C:\OSPanel\domains\mv\core\db\base.adapter.php" crc="1436337959"/>
+		<file name="C:\OSPanel\domains\mv\core\datatypes\url.type.php" crc="1421739510"/>
+		<file name="C:\OSPanel\domains\mv\core\datatypes\text.type.php" crc="1402896723"/>
+		<file name="C:\OSPanel\domains\mv\core\datatypes\redirect.type.php" crc="1381817204"/>
+		<file name="C:\OSPanel\domains\mv\core\datatypes\phone.type.php" crc="1452959853"/>
+		<file name="C:\OSPanel\domains\mv\core\datatypes\password.type.php" crc="1372777588"/>
+		<file name="C:\OSPanel\domains\mv\core\datatypes\parent.type.php" crc="1515693312"/>
+		<file name="C:\OSPanel\domains\mv\core\datatypes\order.type.php" crc="1398426330"/>
+		<file name="C:\OSPanel\domains\mv\core\datatypes\multi_images.type.php" crc="1423924055"/>
+		<file name="C:\OSPanel\domains\mv\core\datatypes\many_to_one.type.php" crc="1421739510"/>
+		<file name="C:\OSPanel\domains\mv\core\datatypes\many_to_many.type.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\core\datatypes\int.type.php" crc="1411024214"/>
+		<file name="C:\OSPanel\domains\mv\core\datatypes\image.type.php" crc="1426338894"/>
+		<file name="C:\OSPanel\domains\mv\core\datatypes\group.type.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\core\datatypes\float.type.php" crc="1421739510"/>
+		<file name="C:\OSPanel\domains\mv\core\datatypes\file.type.php" crc="1490455880"/>
+		<file name="C:\OSPanel\domains\mv\core\datatypes\enum.type.php" crc="1490455880"/>
+		<file name="C:\OSPanel\domains\mv\core\datatypes\email.type.php" crc="1444746888"/>
+		<file name="C:\OSPanel\domains\mv\core\datatypes\date_time.type.php" crc="1490455880"/>
+		<file name="C:\OSPanel\domains\mv\core\datatypes\date.type.php" crc="1490455880"/>
+		<file name="C:\OSPanel\domains\mv\core\datatypes\char.type.php" crc="1490455880"/>
+		<file name="C:\OSPanel\domains\mv\core\datatypes\bool.type.php" crc="1490455880"/>
+		<file name="C:\OSPanel\domains\mv\core\datatypes\base.type.php" crc="1490455880"/>
+		<file name="C:\OSPanel\domains\mv\core\versions.class.php" crc="1444746888"/>
+		<file name="C:\OSPanel\domains\mv\core\usersession.class.php" crc="1444746888"/>
+		<file name="C:\OSPanel\domains\mv\core\users.class.php" crc="1428046407"/>
+		<file name="C:\OSPanel\domains\mv\core\user.class.php" crc="1490965292"/>
+		<file name="C:\OSPanel\domains\mv\core\system.class.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\core\sorter.class.php" crc="1423486062"/>
+		<file name="C:\OSPanel\domains\mv\core\service.class.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\core\router.class.php" crc="1440419832"/>
+		<file name="C:\OSPanel\domains\mv\core\registry.class.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\core\record.class.php" crc="1441107001"/>
+		<file name="C:\OSPanel\domains\mv\core\plugin.class.php" crc="1384324658"/>
+		<file name="C:\OSPanel\domains\mv\core\pager.class.php" crc="1398242652"/>
+		<file name="C:\OSPanel\domains\mv\core\model_simple.class.php" crc="1515740581"/>
+		<file name="C:\OSPanel\domains\mv\core\model_initial.class.php" crc="1515727665"/>
+		<file name="C:\OSPanel\domains\mv\core\model_base.class.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\core\model.class.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\core\menu.class.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\core\login.class.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\core\log.class.php" crc="1452959853"/>
+		<file name="C:\OSPanel\domains\mv\core\imager.class.php" crc="1405408165"/>
+		<file name="C:\OSPanel\domains\mv\core\i18n.class.php" crc="1491459389"/>
+		<file name="C:\OSPanel\domains\mv\core\garbage.class.php" crc="1444746888"/>
+		<file name="C:\OSPanel\domains\mv\core\form.class.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\core\filter.class.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\core\filemanager.class.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\core\email.class.php" crc="1428046407"/>
+		<file name="C:\OSPanel\domains\mv\core\editor.class.php" crc="1441106584"/>
+		<file name="C:\OSPanel\domains\mv\core\debug.class.php" crc="1466518745"/>
+		<file name="C:\OSPanel\domains\mv\core\database.class.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\core\csv.class.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\core\content.class.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\core\cache.class.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\core\builder.class.php" crc="1441106584"/>
+		<file name="C:\OSPanel\domains\mv\config\setup.php" crc="1515664660"/>
+		<file name="C:\OSPanel\domains\mv\config\settings.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\config\routes.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\config\plugins.php" crc="1388144389"/>
+		<file name="C:\OSPanel\domains\mv\config\models.php" crc="1363927932"/>
+		<file name="C:\OSPanel\domains\mv\config\license.txt" crc="1461670579"/>
+		<file name="C:\OSPanel\domains\mv\config\autoload.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\dependency_maps\transport_deps.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\dependency_maps\mime_deps.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\dependency_maps\message_deps.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\dependency_maps\cache_deps.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\classes\Swift\Transport\Esmtp\Auth\XOAuth2Authenticator.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\classes\Swift\Transport\Esmtp\Auth\PlainAuthenticator.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\classes\Swift\Transport\Esmtp\Auth\NTLMAuthenticator.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\classes\Swift\Transport\Esmtp\Auth\LoginAuthenticator.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\classes\Swift\Transport\Esmtp\Auth\CramMd5Authenticator.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\classes\Swift\Transport\Esmtp\AuthHandler.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\classes\Swift\Transport\Esmtp\Authenticator.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\classes\Swift\Transport\StreamBuffer.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\classes\Swift\Transport\SpoolTransport.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\classes\Swift\Transport\SmtpAgent.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\classes\Swift\Transport\SimpleMailInvoker.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\classes\Swift\Transport\SendmailTransport.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\classes\Swift\Transport\NullTransport.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\classes\Swift\Transport\MailTransport.php" crc="1490768791"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\classes\Swift\Transport\MailInvoker.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\classes\Swift\Transport\LoadBalancedTransport.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\classes\Swift\Transport\IoBuffer.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\classes\Swift\Transport\FailoverTransport.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\classes\Swift\Transport\EsmtpTransport.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\classes\Swift\Transport\EsmtpHandler.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\classes\Swift\Transport\AbstractSmtpTransport.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\classes\Swift\StreamFilters\StringReplacementFilterFactory.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\classes\Swift\StreamFilters\StringReplacementFilter.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\classes\Swift\StreamFilters\ByteArrayReplacementFilter.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\classes\Swift\Signers\SMimeSigner.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\classes\Swift\Signers\OpenDKIMSigner.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\classes\Swift\Signers\HeaderSigner.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\classes\Swift\Signers\DomainKeySigner.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\classes\Swift\Signers\DKIMSigner.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\classes\Swift\Signers\BodySigner.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\classes\Swift\Plugins\Reporters\HtmlReporter.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\classes\Swift\Plugins\Reporters\HitReporter.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\classes\Swift\Plugins\Pop\Pop3Exception.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\classes\Swift\Plugins\Pop\Pop3Connection.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\classes\Swift\Plugins\Loggers\EchoLogger.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\classes\Swift\Plugins\Loggers\ArrayLogger.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\classes\Swift\Plugins\Decorator\Replacements.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\classes\Swift\Plugins\Timer.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\classes\Swift\Plugins\ThrottlerPlugin.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\classes\Swift\Plugins\Sleeper.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\classes\Swift\Plugins\ReporterPlugin.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\classes\Swift\Plugins\Reporter.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\classes\Swift\Plugins\RedirectingPlugin.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\classes\Swift\Plugins\PopBeforeSmtpPlugin.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\classes\Swift\Plugins\MessageLogger.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\classes\Swift\Plugins\LoggerPlugin.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\classes\Swift\Plugins\Logger.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\classes\Swift\Plugins\ImpersonatePlugin.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\classes\Swift\Plugins\DecoratorPlugin.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\classes\Swift\Plugins\BandwidthMonitorPlugin.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\classes\Swift\Plugins\AntiFloodPlugin.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\classes\Swift\Mime\Headers\UnstructuredHeader.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\classes\Swift\Mime\Headers\PathHeader.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\classes\Swift\Mime\Headers\ParameterizedHeader.php" crc="1515685890"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\classes\Swift\Mime\Headers\OpenDKIMHeader.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\classes\Swift\Mime\Headers\MailboxHeader.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\classes\Swift\Mime\Headers\IdentificationHeader.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\classes\Swift\Mime\Headers\DateHeader.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\classes\Swift\Mime\Headers\AbstractHeader.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\classes\Swift\Mime\HeaderEncoder\QpHeaderEncoder.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\classes\Swift\Mime\HeaderEncoder\Base64HeaderEncoder.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\classes\Swift\Mime\ContentEncoder\RawContentEncoder.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\classes\Swift\Mime\ContentEncoder\QpContentEncoderProxy.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\classes\Swift\Mime\ContentEncoder\QpContentEncoder.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\classes\Swift\Mime\ContentEncoder\PlainContentEncoder.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\classes\Swift\Mime\ContentEncoder\NativeQpContentEncoder.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\classes\Swift\Mime\ContentEncoder\Base64ContentEncoder.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\classes\Swift\Mime\SimpleMimeEntity.php" crc="1515740580"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\classes\Swift\Mime\SimpleMessage.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\classes\Swift\Mime\SimpleHeaderSet.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\classes\Swift\Mime\SimpleHeaderFactory.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\classes\Swift\Mime\ParameterizedHeader.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\classes\Swift\Mime\MimePart.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\classes\Swift\Mime\MimeEntity.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\classes\Swift\Mime\Message.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\classes\Swift\Mime\HeaderSet.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\classes\Swift\Mime\HeaderFactory.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\classes\Swift\Mime\HeaderEncoder.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\classes\Swift\Mime\Header.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\classes\Swift\Mime\Grammar.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\classes\Swift\Mime\EncodingObserver.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\classes\Swift\Mime\EmbeddedFile.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\classes\Swift\Mime\ContentEncoder.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\classes\Swift\Mime\CharsetObserver.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\classes\Swift\Mime\Attachment.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\classes\Swift\Mailer\RecipientIterator.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\classes\Swift\Mailer\ArrayRecipientIterator.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\classes\Swift\KeyCache\SimpleKeyCacheInputStream.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\classes\Swift\KeyCache\NullKeyCache.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\classes\Swift\KeyCache\KeyCacheInputStream.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\classes\Swift\KeyCache\DiskKeyCache.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\classes\Swift\KeyCache\ArrayKeyCache.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\classes\Swift\Events\TransportExceptionListener.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\classes\Swift\Events\TransportExceptionEvent.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\classes\Swift\Events\TransportChangeListener.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\classes\Swift\Events\TransportChangeEvent.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\classes\Swift\Events\SimpleEventDispatcher.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\classes\Swift\Events\SendListener.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\classes\Swift\Events\SendEvent.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\classes\Swift\Events\ResponseListener.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\classes\Swift\Events\ResponseEvent.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\classes\Swift\Events\EventObject.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\classes\Swift\Events\EventListener.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\classes\Swift\Events\EventDispatcher.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\classes\Swift\Events\Event.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\classes\Swift\Events\CommandListener.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\classes\Swift\Events\CommandEvent.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\classes\Swift\Encoder\Rfc2231Encoder.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\classes\Swift\Encoder\QpEncoder.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\classes\Swift\Encoder\Base64Encoder.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\classes\Swift\CharacterStream\NgCharacterStream.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\classes\Swift\CharacterStream\ArrayCharacterStream.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\classes\Swift\CharacterReaderFactory\SimpleCharacterReaderFactory.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\classes\Swift\CharacterReader\Utf8Reader.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\classes\Swift\CharacterReader\UsAsciiReader.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\classes\Swift\CharacterReader\GenericFixedWidthReader.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\classes\Swift\ByteStream\TemporaryFileByteStream.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\classes\Swift\ByteStream\FileByteStream.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\classes\Swift\ByteStream\ArrayByteStream.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\classes\Swift\ByteStream\AbstractFilterableInputStream.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\classes\Swift\Validate.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\classes\Swift\TransportException.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\classes\Swift\Transport.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\classes\Swift\SwiftException.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\classes\Swift\StreamFilter.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\classes\Swift\SpoolTransport.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\classes\Swift\Spool.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\classes\Swift\SmtpTransport.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\classes\Swift\Signer.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\classes\Swift\SignedMessage.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\classes\Swift\SendmailTransport.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\classes\Swift\RfcComplianceException.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\classes\Swift\ReplacementFilterFactory.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\classes\Swift\Preferences.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\classes\Swift\OutputByteStream.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\classes\Swift\NullTransport.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\classes\Swift\MimePart.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\classes\Swift\Message.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\classes\Swift\MemorySpool.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\classes\Swift\MailTransport.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\classes\Swift\Mailer.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\classes\Swift\LoadBalancedTransport.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\classes\Swift\KeyCache.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\classes\Swift\IoException.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\classes\Swift\InputByteStream.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\classes\Swift\Image.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\classes\Swift\Filterable.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\classes\Swift\FileStream.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\classes\Swift\FileSpool.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\classes\Swift\FailoverTransport.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\classes\Swift\Encoding.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\classes\Swift\Encoder.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\classes\Swift\EmbeddedFile.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\classes\Swift\DependencyException.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\classes\Swift\DependencyContainer.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\classes\Swift\ConfigurableSpool.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\classes\Swift\CharacterStream.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\classes\Swift\CharacterReaderFactory.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\classes\Swift\CharacterReader.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\classes\Swift\Attachment.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\classes\Swift.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\swiftmailer_generate_mimes_config.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\swift_required_pear.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\swift_required.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\swift_init.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\preferences.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\lib\mime_types.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\.travis.yml" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\swiftmailer\.htaccess" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\model\update.php" crc="1490768791"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\model\index.php" crc="1490768791"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\model\index-simple.php" crc="1490768791"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\model\create.php" crc="1490768791"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\login\captcha\index.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\login\remind.php" crc="1490697339"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\login\remind-form.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\login\login-header.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\login\loading.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\login\index.php" crc="1490697339"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\login\error.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\login\captcha.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\login\.htaccess" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\interface\skins\stars\skin.css" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\interface\skins\sport\skin.css" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\interface\skins\mountains\skin.css" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\interface\skins\houses\skin.css" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\interface\skins\generators\skin.css" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\interface\skins\city\skin.css" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\interface\skins\bridge\skin.css" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\interface\redactor\langs\ru.js" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\interface\redactor\langs\en.js" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\interface\redactor\langs\de.js" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\interface\redactor\video.js" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\interface\redactor\table.js" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\interface\redactor\redactor.less" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\interface\redactor\redactor.js" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\interface\redactor\redactor.css" crc="1491981644"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\interface\redactor\imagemanager.js" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\interface\redactor\fullscreen.js" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\interface\redactor\fontsize.js" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\interface\redactor\fontfamily.js" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\interface\redactor\fontcolor.js" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\interface\redactor\filemanager.js" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\interface\js\utils.js" crc="1490768791"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\interface\js\rights-table.js" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\interface\js\mv.js" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\interface\js\jquery.uploadify.js" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\interface\js\jquery.overlay.js" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\interface\js\jquery.js" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\interface\js\jquery.cookie.js" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\interface\js\jquery.contextmenu.js" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\interface\js\jquery.autocomplete.js" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\interface\js\jquery-ui.js" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\interface\js\form.js" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\interface\js\file-manager.js" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\interface\js\dialogs.js" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\interface\js\date-time.js" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\interface\css\uploadify.css" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\interface\css\ui.css" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\interface\css\style.css" crc="1490768791"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\interface\css\style-operations.css" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\interface\css\style-login.css" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\interface\css\style-filemanager.css" crc="1490773629"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\includes\versions.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\includes\users-update-form.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\includes\users-index-top.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\includes\users-create-top.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\includes\users-create-form.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\includes\operations.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\includes\noscript.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\includes\header.php" crc="1490768791"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\includes\footer.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\includes\filters-manager.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\includes\create.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\includes\.htaccess" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\i18n\ru\translit.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\i18n\ru\locale.php" crc="1491459389"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\i18n\ru\locale.js" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\i18n\ru\jquery.ui.datepicker-ru.js" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\i18n\ru\jquery-ui-timepicker-ru.js" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\i18n\en\locale.php" crc="1491459389"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\i18n\en\locale.js" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\i18n\en\jquery.ui.datepicker-en.js" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\i18n\de\translit.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\i18n\de\locale.php" crc="1491459389"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\i18n\de\locale.js" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\i18n\de\jquery.ui.datepicker-de.js" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\i18n\de\jquery-ui-timepicker-de.js" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\i18n\.htaccess" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\custom\index.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\controls\user-settings.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\controls\upload.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\controls\search.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\controls\internal-error.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\controls\import-csv.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\controls\filemanager.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\controls\export-csv.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\controls\debug-error.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\controls\.htaccess" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\ajax\versions.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\ajax\uploadify.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\ajax\upload-images.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\ajax\upload-csv.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\ajax\switch.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\ajax\session.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\ajax\search.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\ajax\quick-edit.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\ajax\orders.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\ajax\multi-actions.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\ajax\m2m-search.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\ajax\filters.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\ajax\filemanager.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\ajax\display-fields.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\ajax\compose-csv.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\ajax\bool-change.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\ajax\autocomplete.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\index.php" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\adminpanel\.htaccess" crc="1490455190"/>
+		<file name="C:\OSPanel\domains\mv\.idea\workspace.xml" crc="1515734196"/>
+		<file name="C:\OSPanel\domains\mv\.idea\vagrant.xml" crc="1515731737"/>
+		<file name="C:\OSPanel\domains\mv\.idea\sqldialects.xml" crc="1515670427"/>
+		<file name="C:\OSPanel\domains\mv\.idea\modules.xml" crc="1515669781"/>
+		<file name="C:\OSPanel\domains\mv\index.php" crc="1515740728"/>
+		<file name="C:\OSPanel\domains\mv\.htaccess" crc="1490455190"/>
+	</filescache>
+</project>

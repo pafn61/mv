@@ -1,0 +1,11 @@
+
+#csv-settings{padding: 10px 0 20px 0;}
+#csv-settings div.m2m-wrapper{padding-bottom: 15px;}
+#csv-settings div.not-selected-header{width: 150px;}
+#csv-settings table td{padding: 0 0 12px 0;}
+#csv-settings table td.setting-name{width: 180px;}
+#csv-settings table td.setting-input{padding-left: 15px;}
+
+#csv-upload-loader{margin-left: 10px; width: 20px; padding: 5px 15px;}
+
+p.csv-notice{margin-bottom: 10px;}

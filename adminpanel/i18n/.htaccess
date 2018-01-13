@@ -1,0 +1,9 @@
+Deny from all
+
+<FilesMatch "\.js$">
+	Allow from all
+</FilesMatch>
+
+<Files multi-upload.png>
+	Allow from all
+</Files>
